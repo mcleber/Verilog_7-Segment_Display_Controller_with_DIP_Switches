@@ -149,12 +149,12 @@ One of the segment wires was connected incorrectly, causing incorrect numbers to
 
 ---
 
-📜 License
+## 📜 License
 
 This project is open-source and available under the GPL-3.0 License.
 
 ---
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 Developed as an FPGA learning project. Strongly inspired by the "cistern" example from the book Eletrônica Digital, Verilog e FPGA.
