@@ -17,7 +17,7 @@ This project implements a BCD (Binary-Coded Decimal) decoder using Verilog for F
 
 Key learning objectives:
 
-- Basic Verilog development and simulation
+- Basic Verilog development
 - Input decoding from DIP switches
 - Driving a 7-segment display
 - FPGA pin mapping using Gowin IDE
