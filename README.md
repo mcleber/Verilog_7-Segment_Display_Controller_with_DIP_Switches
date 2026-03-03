@@ -24,6 +24,30 @@ Key learning objectives:
 
 ---
 
+## Repository Structure
+
+```text
+Verilog_7-Segment_Display_with_DIP_Switches/
+│
+├── assets/
+│   ├── Table1.png
+|   ├── Table2.png
+|   ├── encoder_decoder_bcd_esquematico.png
+│   └── gif_display.gif
+|
+├── constraints/
+│   └── encoder_bcd.cst
+|
+├── src/
+│   └── encoder_bcd.v
+|
+├── License
+|
+└── README.md
+```
+
+---
+
 ## Hardware Required
 
 ### Electronics
@@ -91,30 +115,6 @@ Available in the `src` and `constraints` directories.
 3. Map decimal to 7-segment encoding
 4. Display the output on the 7-segment display
 5. Show ‘E’ when invalid combinations are detected
-
----
-
-## Project Structure
-
-```text
-Verilog_7-Segment_Display_with_DIP_Switches/
-│
-├── assets/
-│   ├── Table1.png
-|   ├── Table2.png
-|   ├── encoder_decoder_bcd_esquematico.png
-│   └── gif_display.gif
-|
-├── constraints/
-│   └── encoder_bcd.cst
-|
-├── src/
-│   └── encoder_bcd.v
-|
-├── License
-|
-└── README.md
-```
 
 ---
 
