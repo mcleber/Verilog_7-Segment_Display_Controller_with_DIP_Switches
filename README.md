@@ -50,14 +50,14 @@ Verilog_7-Segment_Display_with_DIP_Switches/
 
 ## Hardware Required
 
-### Electronics
+#### Electronics
 - 1 × Tang Primer 20K FPGA (GW2A-LV18PG256C8/I7) with Dock
 - 1 × Common-cathode 7-segment display
 - 1 × 8-position DIP switch
 - 7 × Current-limiting resistors (~150Ω)
 - 8 × Pull-down resistors (10 kΩ)
 
-### Miscellaneous
+#### Miscellaneous
 - Jumper wires
 - Breadboard
 - USB-C cable
@@ -66,7 +66,7 @@ Verilog_7-Segment_Display_with_DIP_Switches/
 
 ## Hardware Setup
 
-### Schematics
+#### Schematics
 <p align="center">
   <img src="assets/encoder_decoder_bcd_esquematico.png" width="800" alt="Circuit Diagram">
 </p>
