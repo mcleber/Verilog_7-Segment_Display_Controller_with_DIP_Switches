@@ -110,11 +110,11 @@ Available in the `src` and `constraints` directories.
 
 ## How It Works
 
-1. Read DIP switch input
-2. Convert the binary input to decimal (BCD)
-3. Map decimal to 7-segment encoding
-4. Display the output on the 7-segment display
-5. Show ‘E’ when invalid combinations are detected
+- Read DIP switch input
+- Convert the binary input to decimal (BCD)
+- Map decimal to 7-segment encoding
+- Display the output on the 7-segment display
+- Show ‘E’ when invalid combinations are detected
 
 ---
 
