@@ -155,6 +155,6 @@ This project is open-source and available under the GPL-3.0 License.
 
 ---
 
-## Author
+## Additional Notes
 
 Developed as an FPGA learning project. Strongly inspired by the "cistern" example from the book Eletrônica Digital, Verilog e FPGA.
