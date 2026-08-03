@@ -5,7 +5,7 @@
 ![EDA](https://img.shields.io/badge/EDA-Gowin%20EDA-blue)
 ![Board](https://img.shields.io/badge/Board-Tang%20Primer%2020K-green)
 ![HDL](https://img.shields.io/badge/HDL-Verilog-orange)
-![License](https://img.shields.io/badge/License-GPL--3.0-blue)
+![License](https://img.shields.io/badge/License-GPL--3.0-darkgray)
 
 <p align="center"> <img src="assets/gif_display.gif" width="300" alt="Circuit in action"> </p>
 
